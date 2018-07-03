@@ -20,7 +20,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:src="@drawable/android" />
+                android:src="@drawable/sickle" />
 
             <ImageView
                 android:id="@+id/activity_connexion_usb"
